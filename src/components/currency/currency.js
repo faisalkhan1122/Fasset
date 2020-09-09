@@ -16,7 +16,7 @@ const Currency = (props) => {
         setCurrency(json.data);
         
       });
-  }, []);
+  }, [ids]);
 
   
   // LOGO, Name ,symbol , Slug and Description are needed to fetch from API and use
