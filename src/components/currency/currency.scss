@@ -1,0 +1,33 @@
+.homepage {
+  margin: 10px;
+
+  .logo {
+    margin: 0;
+  }
+
+  .top-title {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+  }
+
+  .symbol {
+    margin-top: 40px;
+    font-weight: bold;
+  }
+}
+
+.title {
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.Heading {
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 24px;
+}
